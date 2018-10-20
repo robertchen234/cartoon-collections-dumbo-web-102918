@@ -2,7 +2,7 @@ def roll_call_dwarves(dwarves)
   dwarves.each_with_index{ |dwarf, idx| puts "#{idx+1}. #{dwarf}" }
 end
 
-def summon_captain_planet(veggies)
+def summon_captain_planet(planeteer_calls)
   # Your code here
 end
 
